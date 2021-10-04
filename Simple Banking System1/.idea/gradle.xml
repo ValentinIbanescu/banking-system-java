@@ -139,6 +139,11 @@
             <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The smallest value" />
             <option value="$PROJECT_DIR$/Topics/The while and do-while loops/The sum of elements" />
             <option value="$PROJECT_DIR$/Topics/The while and do-while loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Behaviour of an exception" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Exceptions' situations" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Theory" />
+            <option value="$PROJECT_DIR$/Topics/What is an exception/Time for exceptions" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>

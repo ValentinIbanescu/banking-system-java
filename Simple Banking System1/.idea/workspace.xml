@@ -5,52 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a43ceb7-030b-480b-9a9d-1c7e9d277ab3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Fix compile-time errors/Simple_Banking_System1.Topics-Errors_in_programs-Fix_compile-time_errors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Fix compile-time errors/Simple_Banking_System1.Topics-Errors_in_programs-Fix_compile-time_errors.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Fix compile-time errors/Simple_Banking_System1.Topics-Errors_in_programs-Fix_compile-time_errors.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Print the age/Simple_Banking_System1.Topics-Errors_in_programs-Print_the_age.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Print the age/Simple_Banking_System1.Topics-Errors_in_programs-Print_the_age.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Print the age/Simple_Banking_System1.Topics-Errors_in_programs-Print_the_age.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Theory/Simple_Banking_System1.Topics-Errors_in_programs-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Theory/Simple_Banking_System1.Topics-Errors_in_programs-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Theory/Simple_Banking_System1.Topics-Errors_in_programs-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/What's wrong/Simple_Banking_System1.Topics-Errors_in_programs-What's_wrong.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/What's wrong/Simple_Banking_System1.Topics-Errors_in_programs-What's_wrong.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/What's wrong/Simple_Banking_System1.Topics-Errors_in_programs-What's_wrong.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Find the correct statement/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Find the correct statement/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Find the correct statement/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Find the correct statement/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Fix compile-time errors/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Fix the program/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Fix the program/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Fix the program/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Fix the program/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Print the age/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Print the age/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Print the age/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Print the age/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Select the statement/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Select the statement/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Select the statement/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Select the statement/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Statements/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Statements/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Statements/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Statements/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Theory/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/What's wrong/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/What's wrong/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/What's wrong/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/What's wrong/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Errors in programs/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Avoid division by zero/Simple_Banking_System1.Topics-What_is_an_exception-Avoid_division_by_zero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Avoid division by zero/Simple_Banking_System1.Topics-What_is_an_exception-Avoid_division_by_zero.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Avoid division by zero/Simple_Banking_System1.Topics-What_is_an_exception-Avoid_division_by_zero.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Behaviour of an exception/Simple_Banking_System1.Topics-What_is_an_exception-Behaviour_of_an_exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Behaviour of an exception/Simple_Banking_System1.Topics-What_is_an_exception-Behaviour_of_an_exception.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Behaviour of an exception/Simple_Banking_System1.Topics-What_is_an_exception-Behaviour_of_an_exception.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Exceptions' situations/Simple_Banking_System1.Topics-What_is_an_exception-Exceptions'_situations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Exceptions' situations/Simple_Banking_System1.Topics-What_is_an_exception-Exceptions'_situations.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Exceptions' situations/Simple_Banking_System1.Topics-What_is_an_exception-Exceptions'_situations.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Theory/Simple_Banking_System1.Topics-What_is_an_exception-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Theory/Simple_Banking_System1.Topics-What_is_an_exception-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Theory/Simple_Banking_System1.Topics-What_is_an_exception-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Time for exceptions/Simple_Banking_System1.Topics-What_is_an_exception-Time_for_exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Time for exceptions/Simple_Banking_System1.Topics-What_is_an_exception-Time_for_exceptions.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Time for exceptions/Simple_Banking_System1.Topics-What_is_an_exception-Time_for_exceptions.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Behaviour of an exception/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Behaviour of an exception/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Behaviour of an exception/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Behaviour of an exception/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Exceptions' situations/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Exceptions' situations/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Exceptions' situations/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Exceptions' situations/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Line №/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Line №/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Line №/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Line №/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Time for exceptions/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Time for exceptions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Time for exceptions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Time for exceptions/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Where is an exception/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Where is an exception/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Where is an exception/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Where is an exception/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -62,7 +60,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +121,14 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.FixingArithmeticException">
+    <configuration name="FixingArithmeticException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FixingArithmeticException" />
+      <module name="Simple_Banking_System1.Topics-What_is_an_exception-Avoid_division_by_zero.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Simple_Banking_System1.Topics-Errors_in_programs-What's_wrong.main" />
@@ -135,13 +139,6 @@
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Simple_Banking_System1.Topics-Errors_in_programs-Fix_the_program.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Iterating_over_arrays-The_index_of_the_first_max_in_an_array.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -162,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FixingArithmeticException" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
