@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a43ceb7-030b-480b-9a9d-1c7e9d277ab3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/Simple Banking System1/Topics/Branching statements/Even or odd/JetBrainsAcademy.Simple_Banking_System1-Topics-Branching_statements-Even_or_odd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/Simple Banking System1/Topics/Branching statements/Even or odd/JetBrainsAcademy.Simple_Banking_System1-Topics-Branching_statements-Even_or_odd.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/Simple Banking System1/Topics/Branching statements/Even or odd/JetBrainsAcademy.Simple_Banking_System1-Topics-Branching_statements-Even_or_odd.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/Simple Banking System1/Topics/Branching statements/Theory/JetBrainsAcademy.Simple_Banking_System1-Topics-Branching_statements-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/Simple Banking System1/Topics/Branching statements/Theory/JetBrainsAcademy.Simple_Banking_System1-Topics-Branching_statements-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules/Simple Banking System1/Topics/Branching statements/Theory/JetBrainsAcademy.Simple_Banking_System1-Topics-Branching_statements-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Banking System/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_3_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Simple_Banking_System1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/A keyword to terminate the loop/Simple_Banking_System1.Topics-Branching_statements-A_keyword_to_terminate_the_loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/A keyword to terminate the loop/Simple_Banking_System1.Topics-Branching_statements-A_keyword_to_terminate_the_loop.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/A keyword to terminate the loop/Simple_Banking_System1.Topics-Branching_statements-A_keyword_to_terminate_the_loop.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/A suitable output/Simple_Banking_System1.Topics-Branching_statements-A_suitable_output.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/A suitable output/Simple_Banking_System1.Topics-Branching_statements-A_suitable_output.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/A suitable output/Simple_Banking_System1.Topics-Branching_statements-A_suitable_output.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Bus tour/Simple_Banking_System1.Topics-Branching_statements-Bus_tour.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Bus tour/Simple_Banking_System1.Topics-Branching_statements-Bus_tour.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Bus tour/Simple_Banking_System1.Topics-Branching_statements-Bus_tour.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Even or odd/Simple_Banking_System1.Topics-Branching_statements-Even_or_odd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Even or odd/Simple_Banking_System1.Topics-Branching_statements-Even_or_odd.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Even or odd/Simple_Banking_System1.Topics-Branching_statements-Even_or_odd.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Statement for skipping an iteration/Simple_Banking_System1.Topics-Branching_statements-Statement_for_skipping_an_iteration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Statement for skipping an iteration/Simple_Banking_System1.Topics-Branching_statements-Statement_for_skipping_an_iteration.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Statement for skipping an iteration/Simple_Banking_System1.Topics-Branching_statements-Statement_for_skipping_an_iteration.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Statements about break and continue/Simple_Banking_System1.Topics-Branching_statements-Statements_about_break_and_continue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Statements about break and continue/Simple_Banking_System1.Topics-Branching_statements-Statements_about_break_and_continue.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Statements about break and continue/Simple_Banking_System1.Topics-Branching_statements-Statements_about_break_and_continue.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Statements/Simple_Banking_System1.Topics-Branching_statements-Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Statements/Simple_Banking_System1.Topics-Branching_statements-Statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Statements/Simple_Banking_System1.Topics-Branching_statements-Statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The integer barrier/Simple_Banking_System1.Topics-Branching_statements-The_integer_barrier.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The integer barrier/Simple_Banking_System1.Topics-Branching_statements-The_integer_barrier.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The integer barrier/Simple_Banking_System1.Topics-Branching_statements-The_integer_barrier.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The same results/Simple_Banking_System1.Topics-Branching_statements-The_same_results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The same results/Simple_Banking_System1.Topics-Branching_statements-The_same_results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The same results/Simple_Banking_System1.Topics-Branching_statements-The_same_results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The sequence/Simple_Banking_System1.Topics-Branching_statements-The_sequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The sequence/Simple_Banking_System1.Topics-Branching_statements-The_sequence.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/The sequence/Simple_Banking_System1.Topics-Branching_statements-The_sequence.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Theory/Simple_Banking_System1.Topics-Branching_statements-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Theory/Simple_Banking_System1.Topics-Branching_statements-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/Theory/Simple_Banking_System1.Topics-Branching_statements-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/What does the code print/Simple_Banking_System1.Topics-Branching_statements-What_does_the_code_print.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/What does the code print/Simple_Banking_System1.Topics-Branching_statements-What_does_the_code_print.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/What does the code print/Simple_Banking_System1.Topics-Branching_statements-What_does_the_code_print.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/What is the output/Simple_Banking_System1.Topics-Branching_statements-What_is_the_output.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/What is the output/Simple_Banking_System1.Topics-Branching_statements-What_is_the_output.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Branching statements/What is the output/Simple_Banking_System1.Topics-Branching_statements-What_is_the_output.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/A simple calculator/Simple_Banking_System1.Topics-Switch_statement-A_simple_calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/A simple calculator/Simple_Banking_System1.Topics-Switch_statement-A_simple_calculator.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/A simple calculator/Simple_Banking_System1.Topics-Switch_statement-A_simple_calculator.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Direction/Simple_Banking_System1.Topics-Switch_statement-Direction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Direction/Simple_Banking_System1.Topics-Switch_statement-Direction.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Direction/Simple_Banking_System1.Topics-Switch_statement-Direction.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Floor-space of the room/Simple_Banking_System1.Topics-Switch_statement-Floor-space_of_the_room.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Floor-space of the room/Simple_Banking_System1.Topics-Switch_statement-Floor-space_of_the_room.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Floor-space of the room/Simple_Banking_System1.Topics-Switch_statement-Floor-space_of_the_room.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/From string to a number/Simple_Banking_System1.Topics-Switch_statement-From_string_to_a_number.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/From string to a number/Simple_Banking_System1.Topics-Switch_statement-From_string_to_a_number.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/From string to a number/Simple_Banking_System1.Topics-Switch_statement-From_string_to_a_number.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Harry Potter/Simple_Banking_System1.Topics-Switch_statement-Harry_Potter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Harry Potter/Simple_Banking_System1.Topics-Switch_statement-Harry_Potter.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Harry Potter/Simple_Banking_System1.Topics-Switch_statement-Harry_Potter.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Removing breaks/Simple_Banking_System1.Topics-Switch_statement-Removing_breaks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Removing breaks/Simple_Banking_System1.Topics-Switch_statement-Removing_breaks.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Removing breaks/Simple_Banking_System1.Topics-Switch_statement-Removing_breaks.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Rewriting code using switch/Simple_Banking_System1.Topics-Switch_statement-Rewriting_code_using_switch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Rewriting code using switch/Simple_Banking_System1.Topics-Switch_statement-Rewriting_code_using_switch.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Rewriting code using switch/Simple_Banking_System1.Topics-Switch_statement-Rewriting_code_using_switch.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Shape/Simple_Banking_System1.Topics-Switch_statement-Shape.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Shape/Simple_Banking_System1.Topics-Switch_statement-Shape.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Shape/Simple_Banking_System1.Topics-Switch_statement-Shape.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Statements/Simple_Banking_System1.Topics-Switch_statement-Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Statements/Simple_Banking_System1.Topics-Switch_statement-Statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Statements/Simple_Banking_System1.Topics-Switch_statement-Statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Test learners/Simple_Banking_System1.Topics-Switch_statement-Test_learners.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Test learners/Simple_Banking_System1.Topics-Switch_statement-Test_learners.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Test learners/Simple_Banking_System1.Topics-Switch_statement-Test_learners.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Theory/Simple_Banking_System1.Topics-Switch_statement-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Theory/Simple_Banking_System1.Topics-Switch_statement-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Switch statement/Theory/Simple_Banking_System1.Topics-Switch_statement-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Collatz conjecture/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Collatz_conjecture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Collatz conjecture/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Collatz_conjecture.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Collatz conjecture/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Collatz_conjecture.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Determine the result/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Determine_the_result.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Determine the result/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Determine_the_result.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Determine the result/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Determine_the_result.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Magic code/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Magic_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Magic code/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Magic_code.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Magic code/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Magic_code.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Profit/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Profit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Profit/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Profit.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Profit/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Profit.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Squares of natural numbers/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Squares_of_natural_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Squares of natural numbers/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Squares_of_natural_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Squares of natural numbers/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Squares_of_natural_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Statements/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Statements/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Statements/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The largest element of a sequence/Simple_Banking_System1.Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The largest element of a sequence/Simple_Banking_System1.Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The largest element of a sequence/Simple_Banking_System1.Topics-The_while_and_do-while_loops-The_largest_element_of_a_sequence.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The number of loop body executions/Simple_Banking_System1.Topics-The_while_and_do-while_loops-The_number_of_loop_body_executions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The number of loop body executions/Simple_Banking_System1.Topics-The_while_and_do-while_loops-The_number_of_loop_body_executions.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The number of loop body executions/Simple_Banking_System1.Topics-The_while_and_do-while_loops-The_number_of_loop_body_executions.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Theory/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Theory/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Theory/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System1.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System1.util.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/util/Simple_Banking_System1.util.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/A keyword to terminate the loop/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/A keyword to terminate the loop/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/A keyword to terminate the loop/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/A keyword to terminate the loop/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/A suitable output/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/A suitable output/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/A suitable output/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/A suitable output/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Bus tour/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Bus tour/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Bus tour/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Bus tour/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Even or odd/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Even or odd/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Even or odd/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Even or odd/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Printing numbers (1)/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Printing numbers (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Printing numbers (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Printing numbers (1)/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Printing numbers/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Printing numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Printing numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Printing numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Repeating 'f' character/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Repeating 'f' character/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Repeating 'f' character/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Repeating 'f' character/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Statement for skipping an iteration/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Statement for skipping an iteration/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Statement for skipping an iteration/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Statement for skipping an iteration/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Statements about break and continue/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Statements about break and continue/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Statements about break and continue/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Statements about break and continue/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/The integer barrier/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/The integer barrier/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/The integer barrier/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/The integer barrier/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/The same results/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/The same results/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/The same results/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/The same results/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/The sequence/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/The sequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/The sequence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/The sequence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/The sequence/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/What does the code print/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/What does the code print/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/What does the code print/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/What does the code print/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/What is the output/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/What is the output/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/What is the output/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/What is the output/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Branching statements/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/A simple calculator/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/A simple calculator/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/A simple calculator/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/A simple calculator/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Direction/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Direction/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Direction/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Direction/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Floor-space of the room/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Floor-space of the room/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Floor-space of the room/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Floor-space of the room/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/From string to a number/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/From string to a number/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/From string to a number/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/From string to a number/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Harry Potter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Harry Potter/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Harry Potter/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Harry Potter/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Removing breaks/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Removing breaks/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Removing breaks/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Removing breaks/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Result of operations/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Result of operations/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Result of operations/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Result of operations/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Rewriting code using switch/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Rewriting code using switch/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Rewriting code using switch/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Rewriting code using switch/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Shape/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Shape/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Shape/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Shape/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Test learners/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Test learners/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Test learners/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Test learners/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/The mystery of switch statement/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/The mystery of switch statement/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/The mystery of switch statement/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/The mystery of switch statement/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Switch statement/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Collatz conjecture/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Collatz conjecture/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Collatz conjecture/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Collatz conjecture/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Magic code/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Magic code/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Magic code/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Magic code/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Profit/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Profit/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Profit/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Profit/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Squares of natural numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The largest element of a sequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The largest element of a sequence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The largest element of a sequence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The largest element of a sequence/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The number of loop body executions/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The number of loop body executions/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The number of loop body executions/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The number of loop body executions/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Topics/Comments/Printing only the longest line/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Topics/Comments/Printing only the longest line/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Topics/The for-loop/The count of numbers divisible by N/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Topics/The for-loop/The count of numbers divisible by N/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Topics/The for-loop/The count of numbers divisible by N/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Topics/The for-loop/The count of numbers divisible by N/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../course-remote-info.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26GJXSkRuhrRY1e3fBeasmttrUV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Banking_System1.Topics-Switch_statement-From_string_to_a_number.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Banking_System1.Topics-Switch_statement-Harry_Potter.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Banking_System1.Topics-Switch_statement-Test_learners.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Banking_System1.Topics-Switch_statement-Floor-space_of_the_room.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Banking_System1.Topics-Switch_statement-A_simple_calculator.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a43ceb7-030b-480b-9a9d-1c7e9d277ab3" name="Changes" comment="" />
+      <created>1647044029276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647044029276</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
