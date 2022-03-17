@@ -5,62 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a43ceb7-030b-480b-9a9d-1c7e9d277ab3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Calculating factorials/Simple_Banking_System1.Topics-Declaring_a_method-Calculating_factorials.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Calculating factorials/Simple_Banking_System1.Topics-Declaring_a_method-Calculating_factorials.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Calculating factorials/Simple_Banking_System1.Topics-Declaring_a_method-Calculating_factorials.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Choose a return type/Simple_Banking_System1.Topics-Declaring_a_method-Choose_a_return_type.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Choose a return type/Simple_Banking_System1.Topics-Declaring_a_method-Choose_a_return_type.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Choose a return type/Simple_Banking_System1.Topics-Declaring_a_method-Choose_a_return_type.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Division/Simple_Banking_System1.Topics-Declaring_a_method-Division.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Division/Simple_Banking_System1.Topics-Declaring_a_method-Division.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Division/Simple_Banking_System1.Topics-Declaring_a_method-Division.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Greatest common divisor/Simple_Banking_System1.Topics-Declaring_a_method-Greatest_common_divisor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Greatest common divisor/Simple_Banking_System1.Topics-Declaring_a_method-Greatest_common_divisor.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Greatest common divisor/Simple_Banking_System1.Topics-Declaring_a_method-Greatest_common_divisor.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Raise to the power/Simple_Banking_System1.Topics-Declaring_a_method-Raise_to_the_power.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Raise to the power/Simple_Banking_System1.Topics-Declaring_a_method-Raise_to_the_power.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Raise to the power/Simple_Banking_System1.Topics-Declaring_a_method-Raise_to_the_power.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Syntactically correct declarations/Simple_Banking_System1.Topics-Declaring_a_method-Syntactically_correct_declarations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Syntactically correct declarations/Simple_Banking_System1.Topics-Declaring_a_method-Syntactically_correct_declarations.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Syntactically correct declarations/Simple_Banking_System1.Topics-Declaring_a_method-Syntactically_correct_declarations.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/The elements of a method/Simple_Banking_System1.Topics-Declaring_a_method-The_elements_of_a_method.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/The elements of a method/Simple_Banking_System1.Topics-Declaring_a_method-The_elements_of_a_method.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/The elements of a method/Simple_Banking_System1.Topics-Declaring_a_method-The_elements_of_a_method.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/The sign of a number/Simple_Banking_System1.Topics-Declaring_a_method-The_sign_of_a_number.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/The sign of a number/Simple_Banking_System1.Topics-Declaring_a_method-The_sign_of_a_number.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/The sign of a number/Simple_Banking_System1.Topics-Declaring_a_method-The_sign_of_a_number.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Theory/Simple_Banking_System1.Topics-Declaring_a_method-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Theory/Simple_Banking_System1.Topics-Declaring_a_method-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Theory/Simple_Banking_System1.Topics-Declaring_a_method-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Calculating factorials/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Calculating factorials/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Calculating factorials/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Calculating factorials/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Calculating factorials/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Raise to the power/out/production/classes/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Raise to the power/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Raise to the power/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Raise to the power/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Raise to the power/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Syntactically correct declarations/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Syntactically correct declarations/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Syntactically correct declarations/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Syntactically correct declarations/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Banking System/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Banking System/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Banking System/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Simple Banking System/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Find the max of three numbers/Simple_Banking_System1.Topics-Declaring_a_method-Find_the_max_of_three_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Find the max of three numbers/Simple_Banking_System1.Topics-Declaring_a_method-Find_the_max_of_three_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Find the max of three numbers/Simple_Banking_System1.Topics-Declaring_a_method-Find_the_max_of_three_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Sum of numbers in the range/Simple_Banking_System1.Topics-Declaring_a_method-Sum_of_numbers_in_the_range.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Sum of numbers in the range/Simple_Banking_System1.Topics-Declaring_a_method-Sum_of_numbers_in_the_range.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Sum of numbers in the range/Simple_Banking_System1.Topics-Declaring_a_method-Sum_of_numbers_in_the_range.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Vowel or not/Simple_Banking_System1.Topics-Declaring_a_method-Vowel_or_not.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Vowel or not/Simple_Banking_System1.Topics-Declaring_a_method-Vowel_or_not.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Vowel or not/Simple_Banking_System1.Topics-Declaring_a_method-Vowel_or_not.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Find the max of three numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Find the max of three numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Find the max of three numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Find the max of three numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Sum of numbers in the range/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Sum of numbers in the range/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Sum of numbers in the range/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Sum of numbers in the range/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Vowel or not/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Vowel or not/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Vowel or not/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Vowel or not/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result (1)/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result (1)/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -68,17 +41,14 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Declaring a method/Division/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring a method/Division/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Declaring a method/Division/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring a method/Division/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/Declaring a method/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring a method/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/The while and do-while loops/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Topics/Comments/Printing only the longest line/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Topics/Comments/Printing only the longest line/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Topics/The for-loop/The count of numbers divisible by N/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Topics/The for-loop/The count of numbers divisible by N/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Topics/The for-loop/The count of numbers divisible by N/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Topics/The for-loop/The count of numbers divisible by N/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +80,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -126,17 +104,10 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Calling_a_method-Area_of_parallelogram.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Simple_Banking_System1.Topics-Declaring_a_method-Calculating_factorials.main" />
@@ -151,27 +122,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Banking_System1.Topics-Declaring_a_method-Sum_of_numbers_in_the_range.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Switch_statement-Floor-space_of_the_room.main" />
+      <module name="Simple_Banking_System1.Topics-Declaring_a_method-Find_the_max_of_three_numbers.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Switch_statement-A_simple_calculator.main" />
+      <module name="Simple_Banking_System1.Topics-Declaring_a_method-Vowel_or_not.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
