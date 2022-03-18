@@ -5,35 +5,158 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a43ceb7-030b-480b-9a9d-1c7e9d277ab3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Find the max of three numbers/Simple_Banking_System1.Topics-Declaring_a_method-Find_the_max_of_three_numbers.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Find the max of three numbers/Simple_Banking_System1.Topics-Declaring_a_method-Find_the_max_of_three_numbers.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Find the max of three numbers/Simple_Banking_System1.Topics-Declaring_a_method-Find_the_max_of_three_numbers.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Sum of numbers in the range/Simple_Banking_System1.Topics-Declaring_a_method-Sum_of_numbers_in_the_range.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Sum of numbers in the range/Simple_Banking_System1.Topics-Declaring_a_method-Sum_of_numbers_in_the_range.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Sum of numbers in the range/Simple_Banking_System1.Topics-Declaring_a_method-Sum_of_numbers_in_the_range.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Vowel or not/Simple_Banking_System1.Topics-Declaring_a_method-Vowel_or_not.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Vowel or not/Simple_Banking_System1.Topics-Declaring_a_method-Vowel_or_not.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Declaring a method/Vowel or not/Simple_Banking_System1.Topics-Declaring_a_method-Vowel_or_not.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Find the max of three numbers/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Find the max of three numbers/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Find the max of three numbers/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Find the max of three numbers/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Sum of numbers in the range/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Sum of numbers in the range/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Sum of numbers in the range/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Sum of numbers in the range/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Vowel or not/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Vowel or not/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Vowel or not/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Declaring a method/Vowel or not/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result (1)/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result (1)/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result (1)/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Determine the result (1)/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Calculator with four methods/Simple_Banking_System1.Topics-Functional_decomposition-Calculator_with_four_methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Calculator with four methods/Simple_Banking_System1.Topics-Functional_decomposition-Calculator_with_four_methods.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Calculator with four methods/Simple_Banking_System1.Topics-Functional_decomposition-Calculator_with_four_methods.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Create a full name/Simple_Banking_System1.Topics-Functional_decomposition-Create_a_full_name.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Create a full name/Simple_Banking_System1.Topics-Functional_decomposition-Create_a_full_name.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Create a full name/Simple_Banking_System1.Topics-Functional_decomposition-Create_a_full_name.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Decompose a math function/Simple_Banking_System1.Topics-Functional_decomposition-Decompose_a_math_function.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Decompose a math function/Simple_Banking_System1.Topics-Functional_decomposition-Decompose_a_math_function.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Decompose a math function/Simple_Banking_System1.Topics-Functional_decomposition-Decompose_a_math_function.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Theory/Simple_Banking_System1.Topics-Functional_decomposition-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Theory/Simple_Banking_System1.Topics-Functional_decomposition-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Theory/Simple_Banking_System1.Topics-Functional_decomposition-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/A strange declaration of the main method/Simple_Banking_System1.Topics-The_main_method-A_strange_declaration_of_the_main_method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/A strange declaration of the main method/Simple_Banking_System1.Topics-The_main_method-A_strange_declaration_of_the_main_method.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/A strange declaration of the main method/Simple_Banking_System1.Topics-The_main_method-A_strange_declaration_of_the_main_method.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Fixing errors in main/Simple_Banking_System1.Topics-The_main_method-Fixing_errors_in_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Fixing errors in main/Simple_Banking_System1.Topics-The_main_method-Fixing_errors_in_main.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Fixing errors in main/Simple_Banking_System1.Topics-The_main_method-Fixing_errors_in_main.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Fixing the main method/Simple_Banking_System1.Topics-The_main_method-Fixing_the_main_method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Fixing the main method/Simple_Banking_System1.Topics-The_main_method-Fixing_the_main_method.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Fixing the main method/Simple_Banking_System1.Topics-The_main_method-Fixing_the_main_method.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/No main args/Simple_Banking_System1.Topics-The_main_method-No_main_args.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/No main args/Simple_Banking_System1.Topics-The_main_method-No_main_args.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/No main args/Simple_Banking_System1.Topics-The_main_method-No_main_args.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Print  Hello, Java/Simple_Banking_System1.Topics-The_main_method-Print__Hello,_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Print  Hello, Java/Simple_Banking_System1.Topics-The_main_method-Print__Hello,_Java.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Print  Hello, Java/Simple_Banking_System1.Topics-The_main_method-Print__Hello,_Java.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Print  We are robots/Simple_Banking_System1.Topics-The_main_method-Print__We_are_robots.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Print  We are robots/Simple_Banking_System1.Topics-The_main_method-Print__We_are_robots.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Print  We are robots/Simple_Banking_System1.Topics-The_main_method-Print__We_are_robots.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Running a program without main/Simple_Banking_System1.Topics-The_main_method-Running_a_program_without_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Running a program without main/Simple_Banking_System1.Topics-The_main_method-Running_a_program_without_main.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Running a program without main/Simple_Banking_System1.Topics-The_main_method-Running_a_program_without_main.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Select all correct statements/Simple_Banking_System1.Topics-The_main_method-Select_all_correct_statements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Select all correct statements/Simple_Banking_System1.Topics-The_main_method-Select_all_correct_statements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Select all correct statements/Simple_Banking_System1.Topics-The_main_method-Select_all_correct_statements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Select correct main method/Simple_Banking_System1.Topics-The_main_method-Select_correct_main_method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Select correct main method/Simple_Banking_System1.Topics-The_main_method-Select_correct_main_method.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Select correct main method/Simple_Banking_System1.Topics-The_main_method-Select_correct_main_method.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/The correct declaration/Simple_Banking_System1.Topics-The_main_method-The_correct_declaration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/The correct declaration/Simple_Banking_System1.Topics-The_main_method-The_correct_declaration.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/The correct declaration/Simple_Banking_System1.Topics-The_main_method-The_correct_declaration.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Theory/Simple_Banking_System1.Topics-The_main_method-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Theory/Simple_Banking_System1.Topics-The_main_method-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Theory/Simple_Banking_System1.Topics-The_main_method-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Who is the main/Simple_Banking_System1.Topics-The_main_method-Who_is_the_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Who is the main/Simple_Banking_System1.Topics-The_main_method-Who_is_the_main.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The main method/Who is the main/Simple_Banking_System1.Topics-The_main_method-Who_is_the_main.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Determine the result (1)/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Determine_the_result__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Determine the result (1)/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Determine_the_result__1_.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/Determine the result (1)/Simple_Banking_System1.Topics-The_while_and_do-while_loops-Determine_the_result__1_.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The sequence/Simple_Banking_System1.Topics-The_while_and_do-while_loops-The_sequence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The sequence/Simple_Banking_System1.Topics-The_while_and_do-while_loops-The_sequence.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The sequence/Simple_Banking_System1.Topics-The_while_and_do-while_loops-The_sequence.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The smallest value/Simple_Banking_System1.Topics-The_while_and_do-while_loops-The_smallest_value.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The smallest value/Simple_Banking_System1.Topics-The_while_and_do-while_loops-The_smallest_value.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/The while and do-while loops/The smallest value/Simple_Banking_System1.Topics-The_while_and_do-while_loops-The_smallest_value.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Functional decomposition/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/The assignment/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/The assignment/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/The assignment/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/The assignment/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/A strange declaration of the main method/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/A strange declaration of the main method/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/A strange declaration of the main method/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/A strange declaration of the main method/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Fixing errors in main/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Fixing errors in main/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Fixing errors in main/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Fixing errors in main/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Fixing errors in main/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Fixing the main method/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Fixing the main method/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Fixing the main method/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Fixing the main method/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Fixing the main method/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/No main args/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/No main args/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/No main args/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/No main args/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Print  Hello, Java/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Print  Hello, Java/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Print  Hello, Java/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Print  Hello, Java/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Print  Hello, Java/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Print  We are robots/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Print  We are robots/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Print  We are robots/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Print  We are robots/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Print  We are robots/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Running a program without main/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Running a program without main/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Running a program without main/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Running a program without main/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Select all correct statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Select all correct statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Select all correct statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Select all correct statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Select correct main method/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Select correct main method/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Select correct main method/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Select correct main method/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/The correct declaration/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/The correct declaration/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/The correct declaration/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/The correct declaration/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Who is the main/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Who is the main/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Who is the main/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/Who is the main/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The main method/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The smallest value/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The smallest value/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The smallest value/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The smallest value/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/Simple Chatty Bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -41,14 +164,16 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Declaring a method/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring a method/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/The sequence/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/The while and do-while loops/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Topics/Increment and decrement/Enter the result/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Topics/Increment and decrement/Enter the result/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../course-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,37 +233,37 @@
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Declaring_a_method-Calculating_factorials.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Declaring_a_method-Raise_to_the_power.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Declaring_a_method-Sum_of_numbers_in_the_range.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Declaring_a_method-Find_the_max_of_three_numbers.main" />
+      <module name="Simple_Banking_System1.Topics-The_main_method-Print__We_are_robots.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Declaring_a_method-Vowel_or_not.main" />
+      <module name="Simple_Banking_System1.Topics-The_while_and_do-while_loops-The_smallest_value.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultipleFunction" />
+      <module name="Simple_Banking_System1.Topics-Functional_decomposition-Decompose_a_math_function.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Name" />
+      <module name="Simple_Banking_System1.Topics-Functional_decomposition-Create_a_full_name.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleCalculator" />
+      <module name="Simple_Banking_System1.Topics-Functional_decomposition-Calculator_with_four_methods.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -146,10 +271,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SimpleCalculator" />
+        <item itemvalue="Application.Name" />
+        <item itemvalue="Application.MultipleFunction" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -184,6 +309,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.NoSuchElementException" package="java.util" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
