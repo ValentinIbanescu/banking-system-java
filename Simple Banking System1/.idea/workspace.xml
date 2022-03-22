@@ -5,102 +5,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a43ceb7-030b-480b-9a9d-1c7e9d277ab3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/A pair of not overloaded methods/Simple_Banking_System1.Topics-Overloading-A_pair_of_not_overloaded_methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/A pair of not overloaded methods/Simple_Banking_System1.Topics-Overloading-A_pair_of_not_overloaded_methods.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/A pair of not overloaded methods/Simple_Banking_System1.Topics-Overloading-A_pair_of_not_overloaded_methods.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/A pair of overloaded methods/Simple_Banking_System1.Topics-Overloading-A_pair_of_overloaded_methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/A pair of overloaded methods/Simple_Banking_System1.Topics-Overloading-A_pair_of_overloaded_methods.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/A pair of overloaded methods/Simple_Banking_System1.Topics-Overloading-A_pair_of_overloaded_methods.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Conditionals for overloading/Simple_Banking_System1.Topics-Overloading-Conditionals_for_overloading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Conditionals for overloading/Simple_Banking_System1.Topics-Overloading-Conditionals_for_overloading.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Conditionals for overloading/Simple_Banking_System1.Topics-Overloading-Conditionals_for_overloading.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Determine the output/Simple_Banking_System1.Topics-Overloading-Determine_the_output.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Determine the output/Simple_Banking_System1.Topics-Overloading-Determine_the_output.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Determine the output/Simple_Banking_System1.Topics-Overloading-Determine_the_output.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Overloading methods/Simple_Banking_System1.Topics-Overloading-Overloading_methods.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Overloading methods/Simple_Banking_System1.Topics-Overloading-Overloading_methods.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Overloading methods/Simple_Banking_System1.Topics-Overloading-Overloading_methods.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Successful overloading/Simple_Banking_System1.Topics-Overloading-Successful_overloading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Successful overloading/Simple_Banking_System1.Topics-Overloading-Successful_overloading.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Successful overloading/Simple_Banking_System1.Topics-Overloading-Successful_overloading.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Theory/Simple_Banking_System1.Topics-Overloading-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Theory/Simple_Banking_System1.Topics-Overloading-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/Theory/Simple_Banking_System1.Topics-Overloading-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/What can two methods have/Simple_Banking_System1.Topics-Overloading-What_can_two_methods_have.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/What can two methods have/Simple_Banking_System1.Topics-Overloading-What_can_two_methods_have.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/What can two methods have/Simple_Banking_System1.Topics-Overloading-What_can_two_methods_have.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/When overloading happens/Simple_Banking_System1.Topics-Overloading-When_overloading_happens.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/When overloading happens/Simple_Banking_System1.Topics-Overloading-When_overloading_happens.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Overloading/When overloading happens/Simple_Banking_System1.Topics-Overloading-When_overloading_happens.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/A pair of not overloaded methods/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/A pair of not overloaded methods/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/A pair of not overloaded methods/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/A pair of not overloaded methods/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/A pair of overloaded methods/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/A pair of overloaded methods/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/A pair of overloaded methods/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/A pair of overloaded methods/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Conditionals for overloading/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Conditionals for overloading/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Conditionals for overloading/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Conditionals for overloading/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Determine the output/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Determine the output/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Determine the output/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Determine the output/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Overloading a method/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Overloading a method/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Overloading a method/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Overloading a method/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Overloading methods/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Overloading methods/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Overloading methods/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Overloading methods/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Print/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Print/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Print/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Print/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Successful overloading/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Successful overloading/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Successful overloading/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Successful overloading/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Theory/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What can two methods have/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What can two methods have/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What can two methods have/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What can two methods have/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What does the code output (1)/answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What does the code output (1)/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What does the code output (1)/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What does the code output (1)/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What does the code output (2)/answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What does the code output (2)/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What does the code output (2)/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What does the code output (2)/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What does the code output/answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What does the code output/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What does the code output/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/What does the code output/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/When overloading happens/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/When overloading happens/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/When overloading happens/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/When overloading happens/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Overloading/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Count how many times a number occurs/Simple_Banking_System1.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Count how many times a number occurs/Simple_Banking_System1.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Count how many times a number occurs/Simple_Banking_System1.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Find the sum/Simple_Banking_System1.Topics-Iterating_over_arrays-Find_the_sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Find the sum/Simple_Banking_System1.Topics-Iterating_over_arrays-Find_the_sum.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Find the sum/Simple_Banking_System1.Topics-Iterating_over_arrays-Find_the_sum.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Select loops/Simple_Banking_System1.Topics-Iterating_over_arrays-Select_loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Select loops/Simple_Banking_System1.Topics-Iterating_over_arrays-Select_loops.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Select loops/Simple_Banking_System1.Topics-Iterating_over_arrays-Select_loops.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Select one loop/Simple_Banking_System1.Topics-Iterating_over_arrays-Select_one_loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Select one loop/Simple_Banking_System1.Topics-Iterating_over_arrays-Select_one_loop.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Select one loop/Simple_Banking_System1.Topics-Iterating_over_arrays-Select_one_loop.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Theory/Simple_Banking_System1.Topics-Iterating_over_arrays-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Theory/Simple_Banking_System1.Topics-Iterating_over_arrays-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Theory/Simple_Banking_System1.Topics-Iterating_over_arrays-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Alphabetical order/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Alphabetical order/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Alphabetical order/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Alphabetical order/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select one loop/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select one loop/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select one loop/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select one loop/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The maximum product of adjacent elements/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The maximum product of adjacent elements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The maximum product of adjacent elements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The maximum product of adjacent elements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/lesson-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Declaring a method/Calculating factorials/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring a method/Calculating factorials/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Declaring a method/Sum of numbers in the range/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring a method/Sum of numbers in the range/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Switch statement/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Switch statement/Theory/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
@@ -146,7 +111,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="26GJXSkRuhrRY1e3fBeasmttrUV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -164,14 +129,7 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-The_while_and_do-while_loops-The_sum_of_elements.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Simple_Banking_System1.Topics-Overloading-Overloading_methods.main" />
@@ -186,27 +144,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Banking_System1.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Arrays_as_parameters-Adding_values.main" />
+      <module name="Simple_Banking_System1.Topics-Iterating_over_arrays-Alphabetical_order.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Arrays_as_parameters-Inverse_boolean_flags.main" />
+      <module name="Simple_Banking_System1.Topics-Iterating_over_arrays-The_maximum_product_of_adjacent_elements.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
