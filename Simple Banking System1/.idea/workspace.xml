@@ -5,50 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a43ceb7-030b-480b-9a9d-1c7e9d277ab3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Count how many times a number occurs/Simple_Banking_System1.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Count how many times a number occurs/Simple_Banking_System1.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Count how many times a number occurs/Simple_Banking_System1.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Find the sum/Simple_Banking_System1.Topics-Iterating_over_arrays-Find_the_sum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Find the sum/Simple_Banking_System1.Topics-Iterating_over_arrays-Find_the_sum.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Find the sum/Simple_Banking_System1.Topics-Iterating_over_arrays-Find_the_sum.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Select loops/Simple_Banking_System1.Topics-Iterating_over_arrays-Select_loops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Select loops/Simple_Banking_System1.Topics-Iterating_over_arrays-Select_loops.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Select loops/Simple_Banking_System1.Topics-Iterating_over_arrays-Select_loops.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Select one loop/Simple_Banking_System1.Topics-Iterating_over_arrays-Select_one_loop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Select one loop/Simple_Banking_System1.Topics-Iterating_over_arrays-Select_one_loop.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Select one loop/Simple_Banking_System1.Topics-Iterating_over_arrays-Select_one_loop.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Theory/Simple_Banking_System1.Topics-Iterating_over_arrays-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Theory/Simple_Banking_System1.Topics-Iterating_over_arrays-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Theory/Simple_Banking_System1.Topics-Iterating_over_arrays-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Alphabetical order/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Alphabetical order/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Alphabetical order/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Alphabetical order/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Find the sum/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select loops/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select one loop/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select one loop/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select one loop/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Select one loop/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The maximum product of adjacent elements/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The maximum product of adjacent elements/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The maximum product of adjacent elements/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The maximum product of adjacent elements/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Theory/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Boxes/Simple_Banking_System1.Topics-Iterating_over_arrays-Boxes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Boxes/Simple_Banking_System1.Topics-Iterating_over_arrays-Boxes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Boxes/Simple_Banking_System1.Topics-Iterating_over_arrays-Boxes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/The index of the first max in an array/Simple_Banking_System1.Topics-Iterating_over_arrays-The_index_of_the_first_max_in_an_array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/The index of the first max in an array/Simple_Banking_System1.Topics-Iterating_over_arrays-The_index_of_the_first_max_in_an_array.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/The index of the first max in an array/Simple_Banking_System1.Topics-Iterating_over_arrays-The_index_of_the_first_max_in_an_array.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/The minimum value of an array/Simple_Banking_System1.Topics-Iterating_over_arrays-The_minimum_value_of_an_array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/The minimum value of an array/Simple_Banking_System1.Topics-Iterating_over_arrays-The_minimum_value_of_an_array.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/The minimum value of an array/Simple_Banking_System1.Topics-Iterating_over_arrays-The_minimum_value_of_an_array.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/The sum of array elements/Simple_Banking_System1.Topics-Iterating_over_arrays-The_sum_of_array_elements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/The sum of array elements/Simple_Banking_System1.Topics-Iterating_over_arrays-The_sum_of_array_elements.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/The sum of array elements/Simple_Banking_System1.Topics-Iterating_over_arrays-The_sum_of_array_elements.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Boxes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Boxes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Boxes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Boxes/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The index of the first max in an array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The index of the first max in an array/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The index of the first max in an array/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The index of the first max in an array/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The minimum value of an array/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The minimum value of an array/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The minimum value of an array/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The minimum value of an array/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The sum of array elements/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The sum of array elements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The sum of array elements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The sum of array elements/task.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -59,14 +43,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Declaring a method/Sum of numbers in the range/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring a method/Sum of numbers in the range/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Switch statement/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Switch statement/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Iterating over arrays/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/The while and do-while loops/Magic code/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Magic code/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,34 +104,34 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Banking_System1.Topics-Iterating_over_arrays-The_minimum_value_of_an_array.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Overloading-Overloading_methods.main" />
+      <module name="Simple_Banking_System1.Topics-Iterating_over_arrays-The_sum_of_array_elements.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Overloading-Print.main" />
+      <module name="Simple_Banking_System1.Topics-Iterating_over_arrays-Boxes.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Iterating_over_arrays-Count_how_many_times_a_number_occurs.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Iterating_over_arrays-Alphabetical_order.main" />
+      <module name="Simple_Banking_System1.Topics-Iterating_over_arrays-The_index_of_the_first_max_in_an_array.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -167,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
