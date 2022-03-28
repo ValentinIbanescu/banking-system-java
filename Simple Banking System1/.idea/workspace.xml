@@ -5,61 +5,128 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a43ceb7-030b-480b-9a9d-1c7e9d277ab3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Avoid division by zero/Simple_Banking_System1.Topics-What_is_an_exception-Avoid_division_by_zero.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Avoid division by zero/Simple_Banking_System1.Topics-What_is_an_exception-Avoid_division_by_zero.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Avoid division by zero/Simple_Banking_System1.Topics-What_is_an_exception-Avoid_division_by_zero.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Behaviour of an exception/Simple_Banking_System1.Topics-What_is_an_exception-Behaviour_of_an_exception.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Behaviour of an exception/Simple_Banking_System1.Topics-What_is_an_exception-Behaviour_of_an_exception.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Behaviour of an exception/Simple_Banking_System1.Topics-What_is_an_exception-Behaviour_of_an_exception.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Exceptions' situations/Simple_Banking_System1.Topics-What_is_an_exception-Exceptions'_situations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Exceptions' situations/Simple_Banking_System1.Topics-What_is_an_exception-Exceptions'_situations.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Exceptions' situations/Simple_Banking_System1.Topics-What_is_an_exception-Exceptions'_situations.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Theory/Simple_Banking_System1.Topics-What_is_an_exception-Theory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Theory/Simple_Banking_System1.Topics-What_is_an_exception-Theory.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Theory/Simple_Banking_System1.Topics-What_is_an_exception-Theory.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Time for exceptions/Simple_Banking_System1.Topics-What_is_an_exception-Time_for_exceptions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Time for exceptions/Simple_Banking_System1.Topics-What_is_an_exception-Time_for_exceptions.main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/What is an exception/Time for exceptions/Simple_Banking_System1.Topics-What_is_an_exception-Time_for_exceptions.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Avoid division by zero/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Behaviour of an exception/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Behaviour of an exception/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Behaviour of an exception/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Behaviour of an exception/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Exceptions' situations/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Exceptions' situations/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Exceptions' situations/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Exceptions' situations/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Line №/answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Line №/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Line №/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Line №/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Theory/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Theory/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Theory/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Theory/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Time for exceptions/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Time for exceptions/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Time for exceptions/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Time for exceptions/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Where is an exception/answer.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Where is an exception/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Where is an exception/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/Where is an exception/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Topics/What is an exception/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/A class with a single integer field/Simple_Banking_System1.Topics-Defining_classes-A_class_with_a_single_integer_field.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/A class with a single integer field/Simple_Banking_System1.Topics-Defining_classes-A_class_with_a_single_integer_field.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/A class with a single integer field/Simple_Banking_System1.Topics-Defining_classes-A_class_with_a_single_integer_field.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/A keyword for creating objects/Simple_Banking_System1.Topics-Defining_classes-A_keyword_for_creating_objects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/A keyword for creating objects/Simple_Banking_System1.Topics-Defining_classes-A_keyword_for_creating_objects.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/A keyword for creating objects/Simple_Banking_System1.Topics-Defining_classes-A_keyword_for_creating_objects.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Accounts/Simple_Banking_System1.Topics-Defining_classes-Accounts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Accounts/Simple_Banking_System1.Topics-Defining_classes-Accounts.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Accounts/Simple_Banking_System1.Topics-Defining_classes-Accounts.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Books/Simple_Banking_System1.Topics-Defining_classes-Books.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Books/Simple_Banking_System1.Topics-Defining_classes-Books.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Books/Simple_Banking_System1.Topics-Defining_classes-Books.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Complex numbers/Simple_Banking_System1.Topics-Defining_classes-Complex_numbers.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Complex numbers/Simple_Banking_System1.Topics-Defining_classes-Complex_numbers.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Complex numbers/Simple_Banking_System1.Topics-Defining_classes-Complex_numbers.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Correct fields/Simple_Banking_System1.Topics-Defining_classes-Correct_fields.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Correct fields/Simple_Banking_System1.Topics-Defining_classes-Correct_fields.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Correct fields/Simple_Banking_System1.Topics-Defining_classes-Correct_fields.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Inner boxes/Simple_Banking_System1.Topics-Defining_classes-Inner_boxes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Inner boxes/Simple_Banking_System1.Topics-Defining_classes-Inner_boxes.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Inner boxes/Simple_Banking_System1.Topics-Defining_classes-Inner_boxes.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Points on the 2D plane/Simple_Banking_System1.Topics-Defining_classes-Points_on_the_2D_plane.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Points on the 2D plane/Simple_Banking_System1.Topics-Defining_classes-Points_on_the_2D_plane.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Points on the 2D plane/Simple_Banking_System1.Topics-Defining_classes-Points_on_the_2D_plane.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Points/Simple_Banking_System1.Topics-Defining_classes-Points.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Points/Simple_Banking_System1.Topics-Defining_classes-Points.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Points/Simple_Banking_System1.Topics-Defining_classes-Points.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Representing time as a class/Simple_Banking_System1.Topics-Defining_classes-Representing_time_as_a_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Representing time as a class/Simple_Banking_System1.Topics-Defining_classes-Representing_time_as_a_class.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Representing time as a class/Simple_Banking_System1.Topics-Defining_classes-Representing_time_as_a_class.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/The keyword/Simple_Banking_System1.Topics-Defining_classes-The_keyword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/The keyword/Simple_Banking_System1.Topics-Defining_classes-The_keyword.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/The keyword/Simple_Banking_System1.Topics-Defining_classes-The_keyword.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Theory/Simple_Banking_System1.Topics-Defining_classes-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Theory/Simple_Banking_System1.Topics-Defining_classes-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Defining classes/Theory/Simple_Banking_System1.Topics-Defining_classes-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Right Rotation/Simple_Banking_System1.Topics-Iterating_over_arrays-Right_Rotation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Right Rotation/Simple_Banking_System1.Topics-Iterating_over_arrays-Right_Rotation.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Iterating over arrays/Right Rotation/Simple_Banking_System1.Topics-Iterating_over_arrays-Right_Rotation.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/A class with a single integer field/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/A class with a single integer field/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/A class with a single integer field/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/A class with a single integer field/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/A keyword for creating objects/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/A keyword for creating objects/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/A keyword for creating objects/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/A keyword for creating objects/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Accounts/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Accounts/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Accounts/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Accounts/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Books/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Books/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Books/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Books/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Complex numbers/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Complex numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Complex numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Complex numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Correct fields/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Correct fields/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Correct fields/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Correct fields/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Inner boxes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Inner boxes/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Inner boxes/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Inner boxes/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Points on the 2D plane/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Points on the 2D plane/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Points on the 2D plane/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Points on the 2D plane/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Points/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Points/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Points/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Points/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Representing time as a class/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Representing time as a class/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Representing time as a class/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Representing time as a class/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/The keyword/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/The keyword/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/The keyword/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/The keyword/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Defining classes/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Right Rotation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Right Rotation/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Right Rotation/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Right Rotation/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The longest ascending sequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The longest ascending sequence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The longest ascending sequence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/The longest ascending sequence/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Branching statements/The same results/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Branching statements/The same results/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Branching statements/The same results/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Branching statements/The same results/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Iterating over arrays/Boxes/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Boxes/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Iterating over arrays/Boxes/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/Boxes/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Iterating over arrays/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Iterating over arrays/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/The while and do-while loops/Collatz conjecture/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Collatz conjecture/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/The while and do-while loops/Profit/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Profit/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/The while and do-while loops/Profit/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Profit/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/The while and do-while loops/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The while and do-while loops/Theory/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +188,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Application.FixingArithmeticException">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="FixingArithmeticException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FixingArithmeticException" />
       <module name="Simple_Banking_System1.Topics-What_is_an_exception-Avoid_division_by_zero.main" />
@@ -143,9 +210,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Simple_Banking_System1.Topics-Errors_in_programs-Fix_compile-time_errors.main" />
+      <module name="Simple_Banking_System1.Topics-Iterating_over_arrays-Right_Rotation.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.FixingArithmeticException" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
